@@ -2,3 +2,4 @@ m.vk.com##.hb_btn
 m.vk.com###vk_head
 m.vk.com##.layout__header.mhead
 m.vk.com###mhead
+m.vk.com##.layout
