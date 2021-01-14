@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Title: 0131 Block List
 m.vk.com##.hb_btn
 m.vk.com###vk_head
 m.vk.com##.layout__header.mhead
