@@ -1,6 +1,10 @@
 [Adblock Plus 2.0]
-! Title: my list
 ! Version: 1
+! Title: my list 
+! Last modified: Jan 15th, 2020
+! Expires: 30 days (update frequency)
+! Homepage: 
+!
 m.vk.com##.hb_btn
 m.vk.com###vk_head
 m.vk.com##.layout__header.mhead
