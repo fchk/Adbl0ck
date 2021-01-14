@@ -12,3 +12,4 @@ m.vk.com###mhead
 m.vk.com##.PageBottomBanner.PageBottomBanner--unauth
 m.vk.com##.Popup__wrap
 m.vk.com##.Popup__overlay
+m.vk.com##.ModalMenu.undefined.Popup.Popup_open
