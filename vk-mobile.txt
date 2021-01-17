@@ -9,3 +9,12 @@ m.vk.com##.hb_btn
 m.vk.com###vk_head
 m.vk.com##.layout__header.mhead
 m.vk.com###mhead
+m.vk.com##.PageBottomBanner--unauth.PageBottomBanner
+m.vk.com##.Popup__wrap
+m.vk.com##.Popup__overlay
+m.vk.com##.Popup__overlay
+m.vk.com##.Popup_open
+m.vk.com##.ModalMenu
+m.vk.com##.undefined
+m.vk.com##.Popup
+https://st1-86.vk.com/js/cmodules/mobile/unauthorized.0297efb9caeb123eed77.js
