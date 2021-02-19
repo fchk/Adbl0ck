@@ -12,7 +12,6 @@ m.vk.com###mhead
 m.vk.com##.PageBottomBanner--unauth.PageBottomBanner
 m.vk.com##.Popup__wrap
 m.vk.com##.Popup__overlay
-m.vk.com##.Popup__overlay
 m.vk.com##.Popup_open
 m.vk.com##.ModalMenu
 m.vk.com##.undefined
