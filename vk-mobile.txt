@@ -17,4 +17,4 @@ m.vk.com##.Popup_open
 m.vk.com##.ModalMenu
 m.vk.com##.undefined
 m.vk.com##.Popup
-https://st1-86.vk.com/js/cmodules/mobile/unauthorized.0297efb9caeb123eed77.js
+https://st1-86.vk.com/js/cmodules/mobile/unauthorized.*.js
